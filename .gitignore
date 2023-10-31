@@ -1,8 +1,0 @@
-data/
-__pycache__/
-.vscode/
-.devcontainer/
-.azureml/
-.ipynb_checkpoints/
-.DS_Store
-config.json
